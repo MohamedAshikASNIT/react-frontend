@@ -1,0 +1,15 @@
+/* sample */
+
+#navbarHeight{
+    height: 10vh;
+    border: 1px solid black;
+}
+
+#footerHeight{
+    height: 10vh;
+    border: 1px solid black;
+}
+
+#bodyHeight{
+    min-height: 80vh;
+}
